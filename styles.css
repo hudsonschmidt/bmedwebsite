@@ -199,8 +199,16 @@ a:focus-visible {
   padding-block: clamp(3rem, 8vh, 6rem);
 }
 
+/* strand runs the full width instead of stopping mid-page */
+.hero.dna-bg::before {
+  background-position: center right;
+  background-size: cover;
+  -webkit-mask-image: linear-gradient(to left, #000 30%, rgba(0, 0, 0, 0.4) 72%, rgba(0, 0, 0, 0.28) 100%);
+  mask-image: linear-gradient(to left, #000 30%, rgba(0, 0, 0, 0.4) 72%, rgba(0, 0, 0, 0.28) 100%);
+}
+
 .hero-title {
-  font-size: clamp(3.25rem, 11vw, 7.5rem);
+  font-size: clamp(2.15rem, 7.3vw, 5rem);
   font-weight: 700;
   line-height: 0.95;
   letter-spacing: -0.035em;
@@ -262,7 +270,7 @@ a:focus-visible {
 
 .bpm-logo {
   width: 100%;
-  max-width: 30rem;
+  max-width: 21rem;
   height: auto;
 }
 
