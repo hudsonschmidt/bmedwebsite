@@ -171,6 +171,10 @@ a:focus-visible {
   pointer-events: none;
 }
 
+.dna-bg.dna-up::before {
+  background-image: url("../assets/dna.jpg");
+}
+
 /* dimmer version */
 .dna-bg.dna-flip::before {
   background-position: bottom right;
