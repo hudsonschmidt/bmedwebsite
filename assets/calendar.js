@@ -23,7 +23,7 @@
   var scriptEl = document.currentScript;
   var dataUrl = scriptEl
     ? new URL("events.json", scriptEl.src).href
-    : "../assets/events.json";
+    : "assets/events.json";
 
   var byDate = Object.create(null); // "YYYY-MM-DD" -> [event, ...]
   var eventDates = []; // sorted list of date keys that have events
