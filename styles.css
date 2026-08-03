@@ -199,7 +199,6 @@ a:focus-visible {
   padding-block: clamp(3rem, 8vh, 6rem);
 }
 
-/* strand runs the full width instead of stopping mid-page */
 .hero.dna-bg::before {
   background-position: center right;
   background-size: cover;
@@ -269,7 +268,7 @@ a:focus-visible {
 /* logo */
 
 .bpm-logo {
-  width: 100%;
+  width: 50%;
   max-width: 21rem;
   height: auto;
 }
