@@ -207,7 +207,7 @@ a:focus-visible {
 }
 
 .hero-title {
-  font-size: clamp(2.15rem, 7.3vw, 5rem);
+  font-size: clamp(3.25rem, 11vw, 7.5rem);
   font-weight: 700;
   line-height: 0.95;
   letter-spacing: -0.035em;
@@ -268,8 +268,8 @@ a:focus-visible {
 /* logo */
 
 .bpm-logo {
-  width: 50%;
-  max-width: 21rem;
+  width: 75%;
+  max-width: 30rem;
   height: auto;
 }
 
