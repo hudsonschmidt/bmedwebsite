@@ -1,62 +1,19 @@
 {
   "_note1": "Each event needs: date (YYYY-MM-DD), title, and type (meeting | guest | social). Optional: time, location, url.",
   "_note2": "Order within the same day is the order listed here.",
-
-
   "meetingLocation": "ATL Room",
-
   "events": [
     {
-      "date": "2026-08-31",
-      "title": "Club Meeting",
-      "time": "11–12pm",
+      "date": "2026-09-03",
+      "title": "Interest Meeting",
+      "time": "12–1pm",
       "type": "meeting"
     },
     {
-      "date": "2026-08-07",
-      "title": "Guest Speaking",
-      "type": "guest"
-    },
-    {
-      "date": "2026-08-10",
-      "title": "Beach Bonfire",
-      "time": "7pm",
-      "type": "social"
-    },
-    {
-      "date": "2026-08-21",
-      "title": "Club Meeting",
-      "time": "11–12pm",
+      "date": "2026-10-12",
+      "title": "First Club Meeting",
+      "time": "11-12pm",
       "type": "meeting"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Meeting",
-      "time": "11–12pm",
-      "type": "meeting"
-    },
-    {
-      "date": "2026-08-28",
-      "title": "Activity",
-      "time": "10–11am",
-      "type": "meeting"
-    },
-    {
-      "date": "2026-08-25",
-      "title": "Bowling",
-      "time": "8pm",
-      "type": "social"
-    },
-    {
-      "date": "2026-09-18",
-      "title": "Club Meeting",
-      "time": "11–12pm",
-      "type": "meeting"
-    },
-    {
-      "date": "2026-09-25",
-      "title": "Guest Speaking",
-      "type": "guest"
     }
   ]
 }
