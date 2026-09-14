@@ -1,12 +1,12 @@
 {
   "_note1": "Each event needs: date (YYYY-MM-DD), title, and type (meeting | guest | social). Optional: time, location, url.",
   "_note2": "Order within the same day is the order listed here.",
-  "meetingLocation": "ATL",
+  "meetingLocation": "192-330",
   "events": [
     {
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "title": "Interest Meeting",
-      "time": "11-12pm",
+      "time": "2:00-2:50pm",
       "type": "meeting"
     },
     {
