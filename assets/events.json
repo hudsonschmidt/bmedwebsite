@@ -10,10 +10,22 @@
       "type": "meeting"
     },
     {
-      "date": "2026-10-12",
+      "date": "2026-10-14",
       "title": "First Club Meeting",
-      "time": "11-12pm",
+      "time": "11-11:50am",
       "type": "meeting"
+    }
+    {
+      "date": "2026-10-28",
+      "title": "Advising Meeting",
+      "time": "11-11:50am",
+      "type": "guest"
+    }
+    {
+      "date": "2026-11-18",
+      "title": "Admissions Officer Visit!",
+      "time": "11-11:50am",
+      "type": "guest"
     }
   ]
 }
