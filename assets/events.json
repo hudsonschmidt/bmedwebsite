@@ -10,20 +10,32 @@
       "type": "meeting"
     },
     {
-      "date": "2026-10-14",
+      "date": "2026-10-21",
       "title": "First Club Meeting",
       "time": "11-11:50am",
       "type": "meeting"
     },
     {
       "date": "2026-10-28",
-      "title": "Advising Meeting",
+      "title": "Physican Day!",
       "time": "11-11:50am",
       "type": "guest"
     },
     {
+      "date": "2026-11-04",
+      "title": "BMED Alumni MCAT Tutor!",
+      "time": "11-11:50am",
+      "type": "guest"
+    }
+    {
       "date": "2026-11-18",
-      "title": "Admissions Officer Visit!",
+      "title": "Admission Officer University of Utah MD",
+      "time": "11-11:50am",
+      "type": "guest"
+    }
+    {
+      "date": "2026-12-02",
+      "title": "Prehealth + Engineering Advising in the SAME ROOM",
       "time": "11-11:50am",
       "type": "guest"
     }
